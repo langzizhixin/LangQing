@@ -1,5 +1,5 @@
 # 🚀 LangQing
-# LangQing is a realtime interactive digital human platform developed by LangZiZhiXin Technology. 
+# LangQing is a realtime interactive digital human platform developed by LangZiZhiXin Technology. Currently, it belongs to the SOTA level .
 # 一个超保真还原本人牙齿和嘴型的商用定制实时数字人项目。
 ## 🏗️ LangQing realtime interactive digital human
 <p align='center'>
