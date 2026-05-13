@@ -98,7 +98,7 @@ Wait, these are nationally leading commercial technologies, with no equivalent c
 
 ## 📖 Disclaimers
 This repositories made by langzizhixin from Langzizhixin Technology company 2026.5.13, in Chengdu, China .
-For business cooperation, please contact us, please contact us by email 277504483@qq.com, or add ours WeChat for communication: langzizhixinkeji 
+For business cooperation, please contact us by email 277504483@qq.com, or add ours WeChat for communication: langzizhixinkeji 
 
 ## 📱 商务合作请加微信联系
 
