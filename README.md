@@ -73,15 +73,31 @@ Wait, these are nationally leading commercial technologies, with no equivalent c
 
 <table class="center">
   <tr style="font-weight: bolder;text-align:center;">
-        <td width="100%"><b>Original video</b></td>
-        <td width="50%"><b>Lip-synced video</b></td>
-  
-    <td width=1920px>
+        <td width="50%"><b>  demo   video</b></td>
+        <td width="50%"><b>  demo   video</b></td>
+  </tr>
+  <tr>
+    <td>
       <video src=https://github.com/user-attachments/assets/33308041-5990-4f3f-9479-95b87907a575 controls preload></video>
     </td>
-    
-    <td width=1920px>
-      <video src=https://github.com/user-attachments/assets/31622741-077e-45f8-a01e-785d89f1113b controls preload></video>
+    <td>
+      <video src=https://github.com/user-attachments/assets/e1d29783-1c01-4f21-9cde-418f86e3a745 controls preload></video>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <video src=https://github.com/user-attachments/assets/2ef6fcd6-882a-44cb-8704-2ca3fcd8b543 controls preload></video>
+    </td>
+    <td>
+      <video src=https://github.com/user-attachments/assets/ffdc4d83-0185-4eaf-ac01-a1d65b7b9e2c controls preload></video>
+    </td>
+  </tr>
+  <tr>
+    <td width=600px>
+      <video src=https://github.com/user-attachments/assets/8e5f6a2a-9df8-489d-bcc4-8b58ded659cf controls preload></video>
+    </td>
+    <td width=600px>
+      <video src=https://github.com/user-attachments/assets/5a66a980-2e3f-4a47-9722-4aec034477e2 controls preload></video>
     </td>
   </tr>
   <tr>
