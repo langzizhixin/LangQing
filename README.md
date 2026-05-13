@@ -1,4 +1,4 @@
-# LangQing
+# 🚀 LangQing
 # LangQing is a realtime interactive digital human platform developed by LangZiZhiXin Technology. 
 # 一个超保真还原本人牙齿和嘴型的商用定制实时数字人项目。
 ## 🏗️ LangQing realtime interactive digital human
@@ -26,7 +26,7 @@
 </p>
 
 
-# 🙏  Advantages
+# 👍  Advantages
 1. Only act when speaking, with semantic coordination.
 2. It can switch videos seamlessly without any flickering.
 3. Commercial algorithms can achieve a similarity of over 96% between teeth and mouth shapes.
@@ -47,7 +47,7 @@
 
 Wait, these are nationally leading commercial technologies, with no equivalent competing products in China, and currently only second to HeyGen in the United States.
 
-# 🙏 Features
+# 🔥 Features
 - Ultra low latency realtime interaction (<500ms fast response)
 - Natural gesture generation driven by speech semantics
 - Seamless video switching without flickering
@@ -103,4 +103,4 @@ For business cooperation, please contact us, please contact us by email 27750448
 ## 📱 微信联系
 
 <p align='center'>  
-    <img src='assets/5555.jpg' width='600'/>
+    <img src='assets/5555.jpg' width='300'/>
