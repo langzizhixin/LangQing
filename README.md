@@ -4,25 +4,24 @@
 <p align='center'>
   <b>
     <a href="https://www.bilibili.com/video/BV1sbRKBFECa/?spm_id_from=333.1387.upload.video_card.click&vd_source=7720ff9e037156b51374d14ee8f76b51">Video </a>
-    | 
+    |     
     <a href="https://github.com/langzizhixin">Project Page</a>
     |
     <a href="https://github.com/langzizhixin/LangQing">Code</a> 
   </b>
 </p> 
 
-## 📊 Sample of processed images.
+## 📊 Project Poster
 <p align='center'>  
-    <img src='assets/1111.png' width='1024'/>
+    <img src='assets/1111.png' width='1200'/>
   
-## 📊 The following pictures are comparison images of the training generator training 200000 steps, The second to last image is the generated digital human image.
+## 📊 Application Scenarios
 <p align='center'>  
     <img src='assets/2222.png' width='1200'/>
-
   
-## 📊 The following pictures are comparison images of the training generator training 300000 steps, The second to last image is the generated digital human image.
+## 📊 Technical Solution
 <p align='center'>  
-    <img src='assets/333.png' width='1200'/>
+    <img src='assets/3333.png' width='1200'/>
 </p>
 
 
