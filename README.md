@@ -11,6 +11,21 @@
   </b>
 </p> 
 
+## 📊 Sample of processed images.
+<p align='center'>  
+    <img src='assets/1111.png' width='1024'/>
+  
+## 📊 The following pictures are comparison images of the training generator training 200000 steps, The second to last image is the generated digital human image.
+<p align='center'>  
+    <img src='assets/2222.png' width='1200'/>
+
+  
+## 📊 The following pictures are comparison images of the training generator training 300000 steps, The second to last image is the generated digital human image.
+<p align='center'>  
+    <img src='assets/333.png' width='1200'/>
+</p>
+
+
 # Advantages
 1. Only act when speaking, with semantic coordination.
 2. It can switch videos seamlessly without any flickering.
@@ -50,38 +65,8 @@ Wait, these are nationally leading commercial technologies, with no equivalent c
 - Long-context memory
 - Persona customization
 - High concurrency deployment
-## 🏗️ IP_LAP_256 Project situation
-<p align='center'>
-  <b>
-    <a href="https://www.bilibili.com/video/BV1fyhczFEuB/?vd_source=7720ff9e037156b51374d14ee8f76b51">Video </a>
-    | 
-    <a href="https://github.com/langzizhixin">Project Page</a>
-    |
-    <a href="https://github.com/langzizhixin/IP_LAP_256">Code</a> 
-  </b>
-</p> 
 
-checkpoints for LangXin_V2 (IP_LAP_256)   https://pan.baidu.com/s/1lzqgqO6vkFxa2-0AiS4a1A?pwd=lzzx
 
-## 📊 Sample of processed images.
-<p align='center'>  
-    <img src='assets/1111.png' width='1024'/>
-    <img src='assets/2222.png' width='1024'/>
-  
-## 📊 The following pictures are comparison images of the training generator training 200000 steps, The second to last image is the generated digital human image.
-<p align='center'>  
-    <img src='assets/0_1.png' width='1200'/>
-    <img src='assets/4_1.png' width='1200'/>
-    <img src='assets/1_0.png' width='1200'/>
-    <img src='assets/4_0.png' width='1200'/>
-  
-## 📊 The following pictures are comparison images of the training generator training 300000 steps, The second to last image is the generated digital human image.
-<p align='center'>  
-    <img src='assets/1_1.png' width='1200'/>
-    <img src='assets/3_0.png' width='1200'/>
-    <img src='assets/2_0.png' width='1200'/>
-    <img src='assets/3_1.png' width='1200'/>
-</p>
 
 
 ## 🎬 Demo
