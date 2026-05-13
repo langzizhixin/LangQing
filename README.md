@@ -29,12 +29,12 @@ Wait, these are nationally leading commercial technologies, with no equivalent c
 - Seamless video switching without flickering
 - High lip-sync accuracy (up to 96% similarity)
 - WebRTC realtime streaming
-- CPU and GPU realtime inference
+- GPU realtime inference
 - Multi-agent integration
 - RAG and workflow orchestration
 - Singing, dancing and costume changing
 - 2D / 2.5D / 3D digital humans
-- Human / anime / animal avatar support
+- Human / anime / animal  support
 - Cloud deployment and on-premise deployment
 - XinChuang compatibility support
 - Multi-language support
