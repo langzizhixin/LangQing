@@ -26,7 +26,7 @@
 </p>
 
 
-# Advantages
+# 🙏  Advantages
 1. Only act when speaking, with semantic coordination.
 2. It can switch videos seamlessly without any flickering.
 3. Commercial algorithms can achieve a similarity of over 96% between teeth and mouth shapes.
@@ -47,7 +47,7 @@
 
 Wait, these are nationally leading commercial technologies, with no equivalent competing products in China, and currently only second to HeyGen in the United States.
 
-# Features
+# 🙏 Features
 - Ultra low latency realtime interaction (<500ms fast response)
 - Natural gesture generation driven by speech semantics
 - Seamless video switching without flickering
@@ -94,30 +94,10 @@ Wait, these are nationally leading commercial technologies, with no equivalent c
   <tr>
 </table>
 
-## 📑 Open-source Plan
-For digital human projects , we will continue to train and release higher definition weights in the future.
-The plan is as follows:
-Pre training checkpoints for wav2lip_288x288 (LangXin_V0) will be released in January 2025.
-Pre training checkpoints for wav2lip_384x384 (LangXin_V1) will be released in February 2025.
-Pre training checkpoints for IP_LAP_256 (LangXin_V2) will be released after June 2025.
-Pre training checkpoints for  (LangXin_V3) will be released after June 2026.
-- [x] landmark_checkpoints  
-- [x] renderer_checkpionts
-- [x] Dataset processing pipeline
-- [x] Training method
-- [x] Inference
-- [ ] Real time Inference 
-- [ ] Higher definition commercial checkpoints
-
-
-
-## 🙏  Citing
-Thank you to the other three authors, Thank you for their wonderful work.
-https://github.com/Weizhi-Zhong/IP_LAP
 
 
 ## 📖 Disclaimers
 This repositories made by langzizhixin from Langzizhixin Technology company 2025.7.20 , in Chengdu, China .
-The above code and weights can only be used for personal/research/non-commercial purposes.
-Especially for digital human video models in the warehouse, if commercial use is required, please contact the model themselves for authorization.
-If you need a higher definition model, please contact us by email 277504483@qq.com, ajian.justdoit@gmail.com or add ours WeChat for communication: langzizhixinkeji 
+For business cooperation, please contact us, please contact us by email 277504483@qq.com, or add ours WeChat for communication: langzizhixinkeji 
+
+
