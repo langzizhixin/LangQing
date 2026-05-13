@@ -73,22 +73,12 @@ Wait, these are nationally leading commercial technologies, with no equivalent c
 
 <table class="center">
   <tr style="font-weight: bolder;text-align:center;">
-        <td width="34.4%"><b>Original video</b></td>
-        <td width="65.6%"><b>Lip-synced video</b></td>
-  </tr>
-  <tr>
-    <td>
+  
+    <td width=1920px>
       <video src=https://github.com/user-attachments/assets/33308041-5990-4f3f-9479-95b87907a575 controls preload></video>
     </td>
-  </tr>
-
-
- 
-  <tr>
-    <td width=600px>
-      <video src=https://github.com/user-attachments/assets/d533df8d-381c-492b-bea1-d23de37e20c6 controls preload></video>
-    </td>
-    <td width=600px>
+    
+    <td width=1920px>
       <video src=https://github.com/user-attachments/assets/31622741-077e-45f8-a01e-785d89f1113b controls preload></video>
     </td>
   </tr>
