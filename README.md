@@ -33,7 +33,7 @@
 4. It can provide an extremely fast response within 500 milliseconds, compared to the average response time of around 1.5 seconds.
 5. Support the integration of various intelligent agents.
 6. Supports 2D, 2.5D, and 3D.
-7. Supports super concurrency. The 3060, priced at over 1000 yuan, supports 4 to 6 concurrent paths.
+7. Supports super concurrency. The 3060, priced at over 1000 yuan RMB, supports 4 to 6 concurrent paths.
 8. Support cloud deployment, local deployment, and information technology innovation transformation.
 9. Support performances such as singing, dancing, and changing clothes.
 10. Supports RAG, workflow, and agent orchestration.
