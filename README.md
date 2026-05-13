@@ -91,15 +91,6 @@ Wait, these are nationally leading commercial technologies, with no equivalent c
     <td>
       <video src=https://github.com/user-attachments/assets/ffdc4d83-0185-4eaf-ac01-a1d65b7b9e2c controls preload></video>
     </td>
-  </tr>
-  <tr>
-    <td width=600px>
-      <video src=https://github.com/user-attachments/assets/8e5f6a2a-9df8-489d-bcc4-8b58ded659cf controls preload></video>
-    </td>
-    <td width=600px>
-      <video src=https://github.com/user-attachments/assets/5a66a980-2e3f-4a47-9722-4aec034477e2 controls preload></video>
-    </td>
-  </tr>
   <tr>
 </table>
 
