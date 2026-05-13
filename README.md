@@ -78,28 +78,12 @@ Wait, these are nationally leading commercial technologies, with no equivalent c
   </tr>
   <tr>
     <td>
-      <video src=https://github.com/user-attachments/assets/2a33a948-e241-4064-a39a-93e90deecdac controls preload></video>
-    </td>
-    <td>
-      <video src=https://github.com/user-attachments/assets/69c9ba4f-5d8b-4abb-badf-a4b6c52acf71 controls preload></video>
+      <video src=https://github.com/user-attachments/assets/33308041-5990-4f3f-9479-95b87907a575 controls preload></video>
     </td>
   </tr>
-  <tr>
-    <td>
-      <video src=https://github.com/user-attachments/assets/ecba6a6b-9d52-40a5-92f1-6c29a5cb8a7a controls preload></video>
-    </td>
-    <td>
-      <video src=https://github.com/user-attachments/assets/cb0712ff-026e-45d9-87af-f95434c6ae60 controls preload></video>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <video src=https://github.com/user-attachments/assets/73026e3a-b3cf-47d9-9d27-50a94dcceb78 controls preload></video>
-    </td>
-    <td>
-      <video src=https://github.com/user-attachments/assets/520548fb-782f-4fed-9603-c6861a8b70ab controls preload></video>
-    </td>
-  </tr>
+
+
+ 
   <tr>
     <td width=600px>
       <video src=https://github.com/user-attachments/assets/d533df8d-381c-492b-bea1-d23de37e20c6 controls preload></video>
