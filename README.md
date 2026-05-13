@@ -1,7 +1,7 @@
 # LangQing
-# LangQing is a realtime interactive digital human platform developed by LangZiZhiXin Technology.
-# 一个可以超保真还原本人牙齿和嘴型的商用定制实时数字人项目。
-Advantages of LangQing's real-time interactive digital avatar:
+# LangQing is a realtime interactive digital human platform developed by LangZiZhiXin Technology. 一个可以超保真还原本人牙齿和嘴型的商用定制实时数字人项目。
+
+## Advantages
 - 1. Only act when speaking, with semantic coordination.
 - 2. It can switch videos seamlessly without any flickering.
 3. Commercial algorithms can achieve a similarity of over 96% between teeth and mouth shapes.
