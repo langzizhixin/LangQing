@@ -1,4 +1,6 @@
 # 🚀 LangQing
+### SOTA Realtime Multimodal Digital Human Platform
+Realtime AI Avatar · Streaming Interaction · WebRTC · Talking Head
 # LangQing is a realtime interactive digital human platform developed by LangZiZhiXin Technology. SOTA realtime multimodal digital human platform. 
 # 一个超保真还原本人牙齿和嘴型的商用定制实时数字人项目，SOTA级。
 ## 🏗️ LangQing realtime interactive digital human
